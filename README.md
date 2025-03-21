@@ -31,8 +31,8 @@ Below is a list of valuable resources available for download:
 | Handwritten Digit Recognition Python Code (MNIST) | [Download Code](https://www.projectpro.io/free-learning-resources/handwritten-digit-recognition-python-code-mnist?utm_source=pawan&utm_medium=github) |
 | Music Genre Classification Project Report with Source Code | [Download](https://www.projectpro.io/free-learning-resources/music-genre-classification-project-report?utm_source=pawan&utm_medium=github) |
 | Stock Price Prediction Data Science Project with Source Code | [Download](https://www.projectpro.io/free-learning-resources/stock-price-prediction-data-science-project-with-source-code?utm_source=pawan&utm_medium=github) |
-| Uber Data Analysis Project with Source Code | [Download](https://www.projectpro.io/free-learning-resources/uber-data-analysis-project-with-source-code?utm_source=pawan&utm_medium=github) |
-| Chatbot Mini Project in Python with Source Code | [Download](https://www.projectpro.io/free-learning-resources/chatbot-mini-project-in-python-with-source-code?utm_source=pawan&utm_medium=github) |
+| Uber Data Analysis Project with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/uber-data-analysis-project-with-source-code?utm_source=pawan&utm_medium=github) |
+| Chatbot Mini Project in Python with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/chatbot-mini-project-in-python-with-source-code?utm_source=pawan&utm_medium=github) |
 | Business Analyst Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/business-analyst-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | Probability and Statistics for Machine Learning | [Download PDF](https://www.projectpro.io/free-learning-resources/probability-and-statistics-for-machine-learning-pdf?utm_source=pawan&utm_medium=github) |
 | Must-Have Data Science Projects | [Download](https://www.projectpro.io/free-learning-resources/examples-of-data-science-projects?utm_source=pawan&utm_medium=github) |
@@ -42,11 +42,11 @@ Below is a list of valuable resources available for download:
 | Data Engineering Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/data-engineering-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | Data Science Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/data-science-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | Deep Learning Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/deep-learning-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
-| Data Engineer Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-engineer-salary-guide?utm_source=pawan&utm_medium=github) |
-| Data Scientist Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-scientist-salary-guide?utm_source=pawan&utm_medium=github) |
-| Data Analyst Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-analyst-salary-guide?utm_source=pawan&utm_medium=github) |
-| Data Engineering Career Path for Beginners | [Download](https://www.projectpro.io/free-learning-resources/data-engineering-career-path?utm_source=pawan&utm_medium=github) |
-| How to Start a Career in Machine Learning? | [Download](https://www.projectpro.io/free-learning-resources/how-to-start-a-career-in-machine-learning?utm_source=pawan&utm_medium=github) |
+| Data Engineer Salary Guide | [Download PDF](https://www.projectpro.io/free-learning-resources/data-engineer-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Scientist Salary Guide | [Download PDF](https://www.projectpro.io/free-learning-resources/data-scientist-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Analyst Salary Guide | [Download PDF](https://www.projectpro.io/free-learning-resources/data-analyst-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Engineering Career Path for Beginners | [Download PDF](https://www.projectpro.io/free-learning-resources/data-engineering-career-path?utm_source=pawan&utm_medium=github) |
+| How to Start a Career in Machine Learning? | [Download PDF](https://www.projectpro.io/free-learning-resources/how-to-start-a-career-in-machine-learning?utm_source=pawan&utm_medium=github) |
 
 
 ---
