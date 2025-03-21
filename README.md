@@ -3,6 +3,52 @@
 
 This repository contains a curated list of articles, guides, and tutorials on AI, machine learning, data engineering, and related topics. Each section is categorized for easy navigation, with links to detailed resources.
 
+## Downloadable Resources
+
+Below is a list of valuable resources available for download:
+
+| **Resource Name** | **Download Link** |
+|------------------|------------------|
+| How to Build an AI Model from Scratch | [Download PDF](https://www.projectpro.io/free-learning-resources/how-to-build-an-ai-model-from-scratch-pdf?utm_source=pawan&utm_medium=github) |
+| How to Build an LLM from Scratch | [Download PDF](https://www.projectpro.io/free-learning-resources/how-to-build-an-llm-from-scratch-pdf?utm_source=pawan&utm_medium=github) |
+| Generative AI Interview Questions And Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/generative-ai-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| MLOps Interview Questions And Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/mlops-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| NumPy Cheatsheet | [Download PDF](https://www.projectpro.io/free-learning-resources/numpy-cheatsheet-pdf?utm_source=pawan&utm_medium=github) |
+| PySpark RDD Cheatsheet | [Download PDF](https://www.projectpro.io/free-learning-resources/pyspark-rdd-cheatsheet-pdf?utm_source=pawan&utm_medium=github) |
+| PySpark DataFrame Cheatsheet | [Download PDF](https://www.projectpro.io/free-learning-resources/pyspark-dataframe-cheatsheet-pdf?utm_source=pawan&utm_medium=github) |
+| Data Analysis Project Examples | [Download PDF](https://www.projectpro.io/free-learning-resources/data-analysis-project-examples-pdf?utm_source=pawan&utm_medium=github) |
+| Pandas Cheatsheet | [Download PDF](https://www.projectpro.io/free-learning-resources/pandas-cheatsheet-pdf?utm_source=pawan&utm_medium=github) |
+| Machine Learning Cheatsheet | [Download PDF](https://www.projectpro.io/free-learning-resources/machine-learning-cheatsheet-pdf?utm_source=pawan&utm_medium=github) |
+| Big Data Use Cases | [Download PDF](https://www.projectpro.io/free-learning-resources/big-data-use-cases-pdf?utm_source=pawan&utm_medium=github) |
+| Cloud Computing Projects | [Download PDF](https://www.projectpro.io/free-learning-resources/cloud-computing-projects-pdf?utm_source=pawan&utm_medium=github) |
+| Machine Learning Projects For Final Year | [Download PDF](https://www.projectpro.io/free-learning-resources/machine-learning-projects-for-final-year-pdf?utm_source=pawan&utm_medium=github) |
+| Azure Data Factory Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/azure-data-factory-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Scala Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/scala-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Artificial Intelligence Mini Project | [Download PDF](https://www.projectpro.io/free-learning-resources/artificial-intelligence-mini-project-pdf?utm_source=pawan&utm_medium=github) |
+| AWS Projects for Beginners | [Download PDF](https://www.projectpro.io/free-learning-resources/aws-projects-for-beginners-pdf-free-download?utm_source=pawan&utm_medium=github) |
+| Apache Spark Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/apache-spark-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| AWS Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/aws-interview-questions-and-answers-pdf-free-download?utm_source=pawan&utm_medium=github) |
+| Handwritten Digit Recognition Python Code (MNIST) | [Download Code](https://www.projectpro.io/free-learning-resources/handwritten-digit-recognition-python-code-mnist?utm_source=pawan&utm_medium=github) |
+| Music Genre Classification Project Report with Source Code | [Download](https://www.projectpro.io/free-learning-resources/music-genre-classification-project-report?utm_source=pawan&utm_medium=github) |
+| Stock Price Prediction Data Science Project with Source Code | [Download](https://www.projectpro.io/free-learning-resources/stock-price-prediction-data-science-project-with-source-code?utm_source=pawan&utm_medium=github) |
+| Uber Data Analysis Project with Source Code | [Download](https://www.projectpro.io/free-learning-resources/uber-data-analysis-project-with-source-code?utm_source=pawan&utm_medium=github) |
+| Chatbot Mini Project in Python with Source Code | [Download](https://www.projectpro.io/free-learning-resources/chatbot-mini-project-in-python-with-source-code?utm_source=pawan&utm_medium=github) |
+| Business Analyst Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/business-analyst-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Probability and Statistics for Machine Learning | [Download PDF](https://www.projectpro.io/free-learning-resources/probability-and-statistics-for-machine-learning-pdf?utm_source=pawan&utm_medium=github) |
+| Must-Have Data Science Projects | [Download](https://www.projectpro.io/free-learning-resources/examples-of-data-science-projects?utm_source=pawan&utm_medium=github) |
+| Machine Learning Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/machine-learning-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| NLP Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/nlp-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Computer Vision Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/computer-vision-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Data Engineering Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/data-engineering-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Data Science Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/data-science-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Deep Learning Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/deep-learning-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
+| Data Engineer Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-engineer-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Scientist Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-scientist-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Analyst Salary Guide | [Download](https://www.projectpro.io/free-learning-resources/data-analyst-salary-guide?utm_source=pawan&utm_medium=github) |
+| Data Engineering Career Path for Beginners | [Download](https://www.projectpro.io/free-learning-resources/data-engineering-career-path?utm_source=pawan&utm_medium=github) |
+| How to Start a Career in Machine Learning? | [Download](https://www.projectpro.io/free-learning-resources/how-to-start-a-career-in-machine-learning?utm_source=pawan&utm_medium=github) |
+
+
 ---
 
 ## Table of Contents
