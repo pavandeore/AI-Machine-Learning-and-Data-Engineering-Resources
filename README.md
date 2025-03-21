@@ -3,6 +3,23 @@
 
 This repository contains a curated list of articles, guides, and tutorials on AI, machine learning, data engineering, and related topics. Each section is categorized for easy navigation, with links to detailed resources.
 
+
+---
+
+## Table of Contents
+1. [AI Agents and Workflows](#ai-agents-and-workflows)
+2. [Generative AI and LLMs](#generative-ai-and-llms)
+3. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
+4. [Data Engineering and AI Integration](#data-engineering-and-ai-integration)
+5. [AI Research and Career Development](#ai-research-and-career-development)
+6. [AI Tools and Frameworks](#ai-tools-and-frameworks)
+7. [AI Applications and Use Cases](#ai-applications-and-use-cases)
+8. [AI Model Optimization and Deployment](#ai-model-optimization-and-deployment)
+9. [AI Ethics and Safety](#ai-ethics-and-safety)
+10. [AI Learning Paths and Resources](#ai-learning-paths-and-resources)
+
+---
+
 ## Downloadable Resources
 
 Below is a list of valuable resources available for download:
@@ -49,21 +66,6 @@ Below is a list of valuable resources available for download:
 | How to Start a Career in Machine Learning? | [Download PDF](https://www.projectpro.io/free-learning-resources/how-to-start-a-career-in-machine-learning?utm_source=pawan&utm_medium=github) |
 
 
----
-
-## Table of Contents
-1. [AI Agents and Workflows](#ai-agents-and-workflows)
-2. [Generative AI and LLMs](#generative-ai-and-llms)
-3. [Retrieval-Augmented Generation (RAG)](#retrieval-augmented-generation-rag)
-4. [Data Engineering and AI Integration](#data-engineering-and-ai-integration)
-5. [AI Research and Career Development](#ai-research-and-career-development)
-6. [AI Tools and Frameworks](#ai-tools-and-frameworks)
-7. [AI Applications and Use Cases](#ai-applications-and-use-cases)
-8. [AI Model Optimization and Deployment](#ai-model-optimization-and-deployment)
-9. [AI Ethics and Safety](#ai-ethics-and-safety)
-10. [AI Learning Paths and Resources](#ai-learning-paths-and-resources)
-
----
 
 ## [AI Agents and Workflows]
 AI agents are transforming automation and decision-making in AI projects. From building custom AI agents to creating multi-agent systems, these tools enable complex workflows and intelligent automation. Whether you're working on agentic RAGs, CrewAI, or Phidata, understanding how to design and implement AI agents is crucial for modern AI applications.
