@@ -29,13 +29,13 @@ Below is a list of valuable resources available for download:
 | Apache Spark Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/apache-spark-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | AWS Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/aws-interview-questions-and-answers-pdf-free-download?utm_source=pawan&utm_medium=github) |
 | Handwritten Digit Recognition Python Code (MNIST) | [Download Code](https://www.projectpro.io/free-learning-resources/handwritten-digit-recognition-python-code-mnist?utm_source=pawan&utm_medium=github) |
-| Music Genre Classification Project Report with Source Code | [Download](https://www.projectpro.io/free-learning-resources/music-genre-classification-project-report?utm_source=pawan&utm_medium=github) |
-| Stock Price Prediction Data Science Project with Source Code | [Download](https://www.projectpro.io/free-learning-resources/stock-price-prediction-data-science-project-with-source-code?utm_source=pawan&utm_medium=github) |
+| Music Genre Classification Project Report with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/music-genre-classification-project-report?utm_source=pawan&utm_medium=github) |
+| Stock Price Prediction Data Science Project with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/stock-price-prediction-data-science-project-with-source-code?utm_source=pawan&utm_medium=github) |
 | Uber Data Analysis Project with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/uber-data-analysis-project-with-source-code?utm_source=pawan&utm_medium=github) |
 | Chatbot Mini Project in Python with Source Code | [Download PDF](https://www.projectpro.io/free-learning-resources/chatbot-mini-project-in-python-with-source-code?utm_source=pawan&utm_medium=github) |
 | Business Analyst Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/business-analyst-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | Probability and Statistics for Machine Learning | [Download PDF](https://www.projectpro.io/free-learning-resources/probability-and-statistics-for-machine-learning-pdf?utm_source=pawan&utm_medium=github) |
-| Must-Have Data Science Projects | [Download](https://www.projectpro.io/free-learning-resources/examples-of-data-science-projects?utm_source=pawan&utm_medium=github) |
+| Must-Have Data Science Projects | [Download PDF](https://www.projectpro.io/free-learning-resources/examples-of-data-science-projects?utm_source=pawan&utm_medium=github) |
 | Machine Learning Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/machine-learning-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | NLP Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/nlp-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
 | Computer Vision Interview Questions and Answers | [Download PDF](https://www.projectpro.io/free-learning-resources/computer-vision-interview-questions-and-answers-pdf?utm_source=pawan&utm_medium=github) |
